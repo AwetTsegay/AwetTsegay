@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AwetTsegay
-- 👀 I’m interested in Data Science and Analytics, amd Machine Learning
+- 👀 I’m interested in Data Science and Analytics, and Machine Learning
 - 🌱 I’m currently learning Data Science & Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
